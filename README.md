@@ -3,7 +3,7 @@
 Dockerfile and start-up script for the portable Docker image of the Modeling and Analysis Suite for Real-Time Applications (MAST):  
 https://hub.docker.com/r/ramdsc/mast/
 
-MAST tools are distributed under GPLv2+ terms by the University of Cantabria (UNICAN); the official web page and documentation can be found here:  
+This is an unofficial image, MAST tools are distributed under GPLv2+ terms by the University of Cantabria (UNICAN); the official web page and documentation can be found here:  
 https://mast.unican.es/
 
 # Requirements
@@ -26,4 +26,4 @@ chmod +x run-mast-docker.bash
 ./run-mast-docker.bash
 ```
 
-Done! You will be inside the container, on your home directory and with the tools directly availbale.
+Done! You will be inside the container, on your home directory and with the tools directly available.
